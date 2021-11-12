@@ -1,0 +1,677 @@
+[18-Feb-2020 13:53:47 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[18-Feb-2020 13:53:47 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 127
+[18-Feb-2020 13:53:47 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 128
+[18-Feb-2020 13:53:47 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 133
+[18-Feb-2020 13:54:09 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:54:09 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:55:02 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:55:02 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:56:22 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:56:22 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:56:39 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:56:39 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:57:38 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:57:38 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 2
+[18-Feb-2020 13:57:52 UTC] PHP Notice:  Undefined index: HTTP_AUTHORIZATION in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 26
+[18-Feb-2020 13:57:52 UTC] PHP Notice:  Undefined offset: 1 in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 29
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 20
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'Reference' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 21
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'Amount' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 22
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'Currency' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 23
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'TransactionReference' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 24
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'RetrievalReferenceNumber' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 25
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'PaymentDate' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 26
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Trying to get property 'Stan' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 27
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Undefined index: HTTP_AUTHORIZATION in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 29
+[18-Feb-2020 13:58:52 UTC] PHP Notice:  Undefined offset: 1 in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 32
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 20
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'Reference' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 21
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'Amount' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 22
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'Currency' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 23
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'TransactionReference' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 24
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'RetrievalReferenceNumber' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 25
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'PaymentDate' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 26
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Trying to get property 'Stan' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 27
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Undefined index: HTTP_AUTHORIZATION in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 29
+[18-Feb-2020 13:59:31 UTC] PHP Notice:  Undefined offset: 1 in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentreversal.php on line 32
+[18-Feb-2020 13:59:56 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 57
+[18-Feb-2020 15:55:30 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 57
+[18-Feb-2020 16:41:39 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 57
+[19-Feb-2020 08:22:36 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[19-Feb-2020 08:22:37 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 127
+[19-Feb-2020 08:22:37 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 128
+[19-Feb-2020 08:22:37 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 133
+[19-Feb-2020 10:58:53 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 57
+[20-Feb-2020 14:38:49 UTC] PHP Notice:  Undefined property: stdClass::$TerminalID in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 60
+[20-Feb-2020 14:38:49 UTC] PHP Notice:  Undefined property: stdClass::$SerialNumber in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 61
+[20-Feb-2020 14:38:49 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 09:24:57 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 09:25:37 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 09:30:38 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 09:45:28 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 10:06:49 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 10:08:45 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 10:09:40 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[21-Feb-2020 10:09:40 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[21-Feb-2020 10:09:40 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[21-Feb-2020 10:10:17 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[21-Feb-2020 10:10:17 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[21-Feb-2020 10:10:17 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[21-Feb-2020 10:27:49 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[21-Feb-2020 10:27:49 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[21-Feb-2020 10:27:49 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[21-Feb-2020 15:03:45 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[21-Feb-2020 16:51:39 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[21-Feb-2020 16:51:39 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[21-Feb-2020 16:51:39 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[21-Feb-2020 17:23:14 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[21-Feb-2020 17:23:14 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[21-Feb-2020 17:23:14 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[25-Feb-2020 16:12:45 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[26-Feb-2020 10:53:21 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[26-Feb-2020 10:54:45 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[26-Feb-2020 10:54:45 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[26-Feb-2020 10:54:45 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[26-Feb-2020 17:20:05 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[26-Feb-2020 17:29:39 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[26-Feb-2020 17:35:08 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[26-Feb-2020 17:42:00 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[27-Feb-2020 08:45:36 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[27-Feb-2020 08:50:57 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[27-Feb-2020 18:10:34 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[27-Feb-2020 18:10:34 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[27-Feb-2020 18:10:34 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[27-Feb-2020 18:41:17 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[27-Feb-2020 18:41:17 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[27-Feb-2020 18:41:17 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[28-Feb-2020 14:18:34 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[28-Feb-2020 14:18:34 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[28-Feb-2020 14:18:34 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[28-Feb-2020 14:19:48 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[28-Feb-2020 14:19:48 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[28-Feb-2020 14:19:48 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Mar-2020 13:03:00 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Mar-2020 13:03:00 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Mar-2020 13:03:00 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Mar-2020 13:05:44 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Mar-2020 13:05:44 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Mar-2020 13:05:44 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Mar-2020 15:37:29 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Mar-2020 15:37:29 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Mar-2020 15:37:29 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[04-Mar-2020 07:19:43 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[04-Mar-2020 07:19:43 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[04-Mar-2020 07:19:43 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[04-Mar-2020 09:29:44 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[04-Mar-2020 09:29:44 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[04-Mar-2020 09:29:44 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[05-Mar-2020 07:09:48 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[05-Mar-2020 07:09:48 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[05-Mar-2020 07:09:48 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[06-Mar-2020 16:39:26 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[06-Mar-2020 16:39:26 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[06-Mar-2020 16:39:26 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[06-Mar-2020 19:29:12 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[06-Mar-2020 19:29:12 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[06-Mar-2020 19:29:12 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[07-Mar-2020 16:20:15 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[07-Mar-2020 16:20:15 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[07-Mar-2020 16:20:15 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[09-Mar-2020 08:33:39 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[09-Mar-2020 08:34:52 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[09-Mar-2020 08:34:52 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[09-Mar-2020 08:34:52 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[09-Mar-2020 08:35:45 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[09-Mar-2020 08:35:45 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[09-Mar-2020 08:35:45 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[09-Mar-2020 11:27:59 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[09-Mar-2020 11:27:59 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[09-Mar-2020 11:27:59 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[10-Mar-2020 08:21:33 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[10-Mar-2020 08:21:33 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[10-Mar-2020 08:21:33 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[10-Mar-2020 15:27:00 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[10-Mar-2020 15:29:59 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[10-Mar-2020 15:30:17 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[10-Mar-2020 15:31:18 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[10-Mar-2020 15:31:18 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[10-Mar-2020 15:31:18 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[13-Mar-2020 15:52:41 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[17-Mar-2020 08:00:34 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[17-Mar-2020 08:00:34 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[17-Mar-2020 08:00:34 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[17-Mar-2020 08:02:03 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[17-Mar-2020 08:02:03 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[17-Mar-2020 08:02:03 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[18-Mar-2020 09:50:40 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[20-Mar-2020 09:29:14 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[20-Mar-2020 09:33:52 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[20-Mar-2020 21:02:00 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[23-Mar-2020 12:28:55 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[23-Mar-2020 12:28:55 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[23-Mar-2020 12:28:55 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[23-Mar-2020 12:28:55 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[23-Mar-2020 12:28:55 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[23-Mar-2020 18:03:20 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[24-Mar-2020 12:05:17 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:05:17 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:05:17 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:05:17 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:05:17 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:05:18 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:05:18 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:05:18 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'FundTransferModel' not found in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php:78
+Stack trace:
+#0 /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php(101): TransactionModel->getUserFTModel('000978178299', '140.00', '21000547', 1)
+#1 /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php(223): TransactionModel->saveTransaction(Object(mysqli))
+#2 {main}
+  thrown in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 78
+[24-Mar-2020 12:07:43 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:07:43 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:07:43 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:07:43 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:07:43 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:07:43 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 12:15:21 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:15:21 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:15:21 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:15:21 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:15:21 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:15:21 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 12:16:13 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:16:13 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:16:13 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:16:13 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:16:13 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:16:13 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 12:16:23 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:16:23 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:16:23 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:16:23 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:16:23 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:16:23 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 12:16:48 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:16:48 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:16:48 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:16:48 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:16:48 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:16:48 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 12:17:02 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:17:02 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:17:02 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:17:02 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:17:02 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:17:02 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:17:02 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:17:02 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:20:05 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:20:05 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:20:05 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:20:05 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:20:05 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:20:05 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 12:20:09 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:20:09 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:20:09 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:20:09 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:20:09 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:20:09 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 12:20:22 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:20:22 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:20:22 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:20:22 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:20:22 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:20:22 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:20:22 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:20:22 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:21:38 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:21:38 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:21:38 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:21:38 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:21:38 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:21:38 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:21:38 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:21:38 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:54:16 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:54:16 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:54:16 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 12:54:16 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 12:54:16 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:54:16 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:54:16 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:54:16 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:58:41 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 12:58:41 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 12:58:41 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 12:58:41 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:58:41 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 12:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 101
+[24-Mar-2020 13:00:41 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:00:41 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:00:41 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:00:41 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 13:02:37 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:02:37 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:02:37 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:02:37 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 13:04:12 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:04:12 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:04:12 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:04:12 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 13:08:34 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:08:34 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:08:34 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:08:34 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 13:11:22 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:11:22 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:11:22 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 13:11:22 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 13:11:22 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:11:22 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 13:11:32 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:11:32 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:11:32 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 13:11:32 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 13:11:32 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:11:32 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 13:28:57 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:28:57 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:28:57 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:28:57 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 13:45:00 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:45:00 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:45:00 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 13:45:00 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 13:45:00 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:45:00 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[24-Mar-2020 13:45:00 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[24-Mar-2020 13:45:00 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[24-Mar-2020 13:47:36 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 13:47:36 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 13:47:36 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 13:47:36 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 55
+[24-Mar-2020 14:16:38 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[24-Mar-2020 14:18:03 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 14:18:03 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 14:18:03 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 14:19:16 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 14:19:16 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 14:19:16 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 14:20:27 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 14:20:27 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 14:20:27 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 14:26:56 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[24-Mar-2020 14:30:26 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[24-Mar-2020 14:37:18 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 14:37:18 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 14:37:18 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 16:49:23 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 16:49:23 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 16:49:23 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 18:33:41 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 18:33:41 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 18:33:41 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 18:33:41 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 18:33:41 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[24-Mar-2020 18:33:41 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[24-Mar-2020 18:33:41 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[24-Mar-2020 18:33:41 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[24-Mar-2020 18:34:11 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[24-Mar-2020 18:34:11 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[24-Mar-2020 18:34:11 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[24-Mar-2020 18:34:11 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[24-Mar-2020 18:34:11 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[25-Mar-2020 17:07:15 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[25-Mar-2020 21:14:04 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[27-Mar-2020 14:14:07 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[27-Mar-2020 14:15:53 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[27-Mar-2020 14:15:53 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[27-Mar-2020 14:15:53 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[27-Mar-2020 14:15:54 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[27-Mar-2020 14:15:54 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[27-Mar-2020 14:15:54 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 100
+[27-Mar-2020 14:24:28 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[27-Mar-2020 14:24:28 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[27-Mar-2020 14:24:28 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[27-Mar-2020 14:25:29 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[27-Mar-2020 14:25:29 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[27-Mar-2020 14:25:29 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[27-Mar-2020 14:26:32 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[27-Mar-2020 14:26:32 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[27-Mar-2020 14:26:32 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[27-Mar-2020 17:16:50 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[27-Mar-2020 17:16:50 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[27-Mar-2020 17:16:50 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[27-Mar-2020 17:16:50 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[27-Mar-2020 17:16:50 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[28-Mar-2020 06:21:20 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[28-Mar-2020 06:21:20 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[28-Mar-2020 06:21:20 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[28-Mar-2020 06:21:20 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[28-Mar-2020 06:21:20 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 102
+[28-Mar-2020 06:21:20 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 102
+[28-Mar-2020 06:21:20 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 102
+[29-Mar-2020 02:49:33 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Mar-2020 02:49:33 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Mar-2020 02:49:33 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[29-Mar-2020 02:49:33 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Mar-2020 02:49:33 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Mar-2020 02:51:24 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Mar-2020 02:51:24 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Mar-2020 02:51:24 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Mar-2020 02:51:24 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Mar-2020 02:51:24 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[29-Mar-2020 02:51:24 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[29-Mar-2020 02:51:24 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[29-Mar-2020 03:14:09 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Mar-2020 03:14:09 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Mar-2020 03:14:09 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Mar-2020 03:14:09 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Mar-2020 03:14:09 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[29-Mar-2020 03:14:09 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[29-Mar-2020 03:14:09 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[02-Apr-2020 10:01:11 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Apr-2020 10:01:11 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Apr-2020 10:01:11 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Apr-2020 10:01:11 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[02-Apr-2020 10:01:11 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[02-Apr-2020 10:01:11 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[02-Apr-2020 10:02:29 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Apr-2020 10:02:29 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Apr-2020 10:02:29 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Apr-2020 10:05:24 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[02-Apr-2020 10:06:33 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Apr-2020 10:06:33 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Apr-2020 10:06:33 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Apr-2020 17:02:59 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Apr-2020 17:02:59 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Apr-2020 17:02:59 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Apr-2020 17:03:45 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Apr-2020 17:03:45 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Apr-2020 17:03:45 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[02-Apr-2020 17:04:55 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[02-Apr-2020 17:04:55 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[02-Apr-2020 17:04:55 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[18-Apr-2020 02:59:21 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[18-Apr-2020 02:59:21 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[18-Apr-2020 02:59:21 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[18-Apr-2020 02:59:21 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[18-Apr-2020 02:59:21 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[18-Apr-2020 02:59:21 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[18-Apr-2020 02:59:21 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 113
+[29-Apr-2020 02:20:28 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 02:20:28 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 02:20:28 UTC] PHP Notice:  Undefined property: stdClass::$StatusCode in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 117
+[29-Apr-2020 02:20:28 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Apr-2020 02:20:28 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 03:22:38 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 03:22:38 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 03:22:38 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Apr-2020 03:22:38 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 03:22:38 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 03:22:38 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 03:22:38 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:05:55 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 04:05:55 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 04:05:55 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Apr-2020 04:05:55 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 04:05:55 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:05:55 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:05:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:38:50 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 04:38:50 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 04:38:50 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Apr-2020 04:38:50 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 04:38:50 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:38:50 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:38:50 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:47:04 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 04:47:04 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 04:47:04 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[29-Apr-2020 04:47:04 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 04:47:04 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:47:04 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:47:04 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 04:47:06 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[29-Apr-2020 05:18:37 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[29-Apr-2020 05:19:59 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 05:19:59 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 05:19:59 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 05:19:59 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:19:59 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:19:59 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:20:02 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[29-Apr-2020 05:30:14 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 05:30:14 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 05:30:14 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 05:30:14 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:30:14 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:30:14 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:30:16 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[29-Apr-2020 05:49:20 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 05:49:20 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 05:49:20 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 05:49:20 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:49:20 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:49:20 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:49:23 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[29-Apr-2020 05:50:09 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[29-Apr-2020 05:50:09 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[29-Apr-2020 05:50:09 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[29-Apr-2020 05:50:09 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:50:09 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:50:09 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[29-Apr-2020 05:50:11 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[29-Apr-2020 20:32:01 UTC] PHP Notice:  Trying to get property 'TerminalID' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 60
+[29-Apr-2020 20:32:01 UTC] PHP Notice:  Trying to get property 'SerialNumber' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 61
+[29-Apr-2020 20:32:01 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[29-Apr-2020 20:32:01 UTC] PHP Notice:  Undefined offset: 1 in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 63
+[29-Apr-2020 20:36:48 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 09:34:32 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 09:36:02 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 09:38:26 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[30-Apr-2020 09:38:26 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[30-Apr-2020 09:38:26 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[30-Apr-2020 09:38:27 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[30-Apr-2020 09:38:27 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[30-Apr-2020 09:38:27 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[30-Apr-2020 09:38:29 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[30-Apr-2020 11:30:49 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 11:30:57 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 16:41:00 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 16:46:50 UTC] PHP Notice:  Trying to get property 'TerminalID' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 60
+[30-Apr-2020 16:46:50 UTC] PHP Notice:  Trying to get property 'SerialNumber' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 61
+[30-Apr-2020 16:46:50 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 16:46:50 UTC] PHP Notice:  Undefined offset: 1 in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 63
+[30-Apr-2020 16:46:51 UTC] PHP Notice:  Trying to get property 'TerminalID' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 60
+[30-Apr-2020 16:46:51 UTC] PHP Notice:  Trying to get property 'SerialNumber' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 61
+[30-Apr-2020 16:46:51 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 16:46:51 UTC] PHP Notice:  Undefined offset: 1 in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 63
+[30-Apr-2020 16:55:05 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 18:00:29 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/getinfo.php on line 62
+[30-Apr-2020 19:35:30 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[30-Apr-2020 19:35:30 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[30-Apr-2020 19:35:30 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[30-Apr-2020 19:35:30 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[30-Apr-2020 19:35:30 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[30-Apr-2020 19:35:30 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[30-Apr-2020 19:35:33 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[01-May-2020 07:53:29 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[01-May-2020 07:53:29 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[01-May-2020 07:53:29 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[01-May-2020 07:53:29 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[01-May-2020 07:53:29 UTC] Duplicate entry '007679912342348899' for key 'trn_ref_uk'
+[01-May-2020 07:53:34 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[01-May-2020 07:53:34 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[01-May-2020 07:53:34 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[01-May-2020 07:53:34 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[01-May-2020 07:53:34 UTC] Duplicate entry '007679912342348899' for key 'trn_ref_uk'
+[01-May-2020 07:53:37 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[01-May-2020 07:53:37 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[01-May-2020 07:53:37 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[01-May-2020 07:53:37 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[01-May-2020 07:53:37 UTC] Duplicate entry '007679912342348899' for key 'trn_ref_uk'
+[01-May-2020 11:00:36 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[01-May-2020 11:00:36 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[01-May-2020 11:00:36 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[01-May-2020 11:00:36 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[01-May-2020 11:00:36 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[01-May-2020 11:00:36 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[01-May-2020 11:00:39 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[12-May-2020 11:05:17 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[12-May-2020 11:05:17 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[12-May-2020 11:05:17 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[12-May-2020 11:05:17 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[12-May-2020 11:05:17 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[12-May-2020 11:05:17 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[12-May-2020 11:05:20 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:55 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 05:30:55 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 05:30:55 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 05:30:56 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 05:30:56 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 05:30:56 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$transactionstatus in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$reference in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$nibssresponsemessage in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$tcode in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$draccount in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$craccount in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$bankcode in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:30:56 UTC] PHP Notice:  Undefined property: stdClass::$craccountname in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 05:45:40 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 05:45:40 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 05:45:40 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$transactionstatus in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$reference in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$nibssresponsemessage in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$tcode in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$draccount in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$craccount in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$bankcode in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 05:45:40 UTC] PHP Notice:  Undefined property: stdClass::$craccountname in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 07:19:20 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 07:19:20 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 07:19:20 UTC] PHP Notice:  Undefined property: stdClass::$StatusDescription in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 118
+[19-May-2020 07:19:20 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 07:19:20 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:19:20 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:19:20 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:19:23 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 07:24:30 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 07:24:30 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 07:24:30 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 07:24:31 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:24:31 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:24:31 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:24:33 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 07:32:49 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 07:32:49 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 07:32:49 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 07:32:49 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:32:49 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:32:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:32:52 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 07:33:00 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 07:33:00 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 07:33:00 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 07:33:00 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:33:00 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:33:00 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:33:02 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 07:35:56 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 07:35:56 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 07:35:56 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 07:35:56 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:35:56 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:35:56 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 07:35:58 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 08:27:43 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 08:27:43 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 08:27:43 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 08:27:43 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 08:27:43 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 08:27:43 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 08:27:46 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 13:05:21 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 13:05:21 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 13:05:21 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 13:05:21 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:05:21 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:05:21 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:15:55 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 13:15:55 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 13:15:55 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 13:15:55 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:15:55 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:15:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:15:58 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 13:32:45 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 13:32:45 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 13:32:45 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 13:32:45 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:32:45 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:32:45 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:32:48 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 13:48:51 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 13:48:51 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 13:48:51 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 13:48:51 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:48:51 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:48:51 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 13:48:54 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 14:03:57 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 14:03:57 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 14:03:57 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 14:03:57 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 14:03:57 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 14:03:57 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 14:04:00 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 17:26:37 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 17:26:37 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 17:26:37 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 17:26:37 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 17:26:37 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 17:26:37 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 17:26:39 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[19-May-2020 17:27:49 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[19-May-2020 17:27:49 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[19-May-2020 17:27:49 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[19-May-2020 17:27:49 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 17:27:49 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 17:27:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[19-May-2020 17:27:51 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[20-May-2020 07:44:26 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[20-May-2020 07:44:26 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[20-May-2020 07:44:26 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[20-May-2020 07:44:26 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[20-May-2020 07:44:26 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[20-May-2020 07:44:26 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[20-May-2020 07:44:29 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[20-May-2020 09:36:57 UTC] PHP Warning:  Use of undefined constant storedterminalflag - assumed 'storedterminalflag' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 72
+[20-May-2020 09:36:57 UTC] PHP Notice:  Undefined property: stdClass::$Name in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 107
+[20-May-2020 09:36:57 UTC] PHP Notice:  Undefined property: stdClass::$MerchantID in /home2/nubeeroc/public_html/projectrelief/api/prod/paymentnotify.php on line 123
+[20-May-2020 09:36:57 UTC] PHP Warning:  Use of undefined constant paymentdate - assumed 'paymentdate' (this will throw an Error in a future version of PHP) in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[20-May-2020 09:36:57 UTC] PHP Notice:  Object of class TransactionModel could not be converted to int in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[20-May-2020 09:36:57 UTC] PHP Warning:  A non-numeric value encountered in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 119
+[20-May-2020 09:37:00 UTC] PHP Notice:  Undefined property: stdClass::$sessionid in /home2/nubeeroc/public_html/projectrelief/api/prod/TransactionModel.php on line 51
+[28-Oct-2021 16:43:58 UTC] PHP Notice:  Undefined offset: 1 in /home2/cubestix/public_html/api/getstatus.php on line 24
+[28-Oct-2021 16:44:09 UTC] PHP Notice:  Undefined offset: 1 in /home2/cubestix/public_html/api/getstatus.php on line 24
+[28-Oct-2021 16:53:57 UTC] PHP Notice:  Undefined offset: 1 in /home2/cubestix/public_html/api/getstatus.php on line 24
+[28-Oct-2021 16:54:09 UTC] PHP Notice:  Undefined offset: 1 in /home2/cubestix/public_html/api/getstatus.php on line 24
+[28-Oct-2021 16:55:29 UTC] PHP Notice:  Undefined offset: 1 in /home2/cubestix/public_html/api/getstatus.php on line 24
+[28-Oct-2021 16:57:33 UTC] PHP Notice:  Undefined offset: 1 in /home2/cubestix/public_html/api/getstatus.php on line 24
+[28-Oct-2021 16:57:41 UTC] PHP Notice:  Trying to get property 'sendername' of non-object in /home2/cubestix/public_html/api/getstatus.php on line 53
+[28-Oct-2021 16:57:41 UTC] PHP Notice:  Trying to get property 'senderid' of non-object in /home2/cubestix/public_html/api/getstatus.php on line 54
+[28-Oct-2021 16:57:46 UTC] PHP Notice:  Trying to get property 'sendername' of non-object in /home2/cubestix/public_html/api/getstatus.php on line 53
+[28-Oct-2021 16:57:46 UTC] PHP Notice:  Trying to get property 'senderid' of non-object in /home2/cubestix/public_html/api/getstatus.php on line 54
+[28-Oct-2021 17:16:18 UTC] PHP Notice:  Undefined property: stdClass::$sendername in /home2/cubestix/public_html/api/getstatus.php on line 53
+[28-Oct-2021 17:16:18 UTC] PHP Notice:  Undefined property: stdClass::$senderid in /home2/cubestix/public_html/api/getstatus.php on line 54
+[28-Oct-2021 17:17:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/cubestix/public_html/api/FundTransfer.php on line 10
