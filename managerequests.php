@@ -33,7 +33,6 @@ $login_user = "Onyinye Ijeoma";
         <link rel="icon" type="image/png" sizes="192x192" href="assets/media/favicons/favicon-192x192.png">
         <link rel="apple-touch-icon" sizes="180x180" href="assets/media/favicons/apple-touch-icon-180x180.png">
         <!-- END Icons -->
-
         <!-- Stylesheets -->
    <!-- Page JS Plugins CSS -->
    <link rel="stylesheet" href="assets/js/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css">
@@ -52,7 +51,7 @@ $login_user = "Onyinye Ijeoma";
         <!-- Fonts and Codebase framework -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700&display=swap">
         <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
-
+        <link href="https://code.jquery.com/ui/1.13.0/themes/smoothness/jquery-ui.css" rel="Stylesheet"></link>
         <!-- You can include a specific file from css/themes/ folder to alter the default color theme of the template. eg: -->
         <!-- <link rel="stylesheet" id="css-theme" href="assets/css/themes/flat.min.css"> -->
         <!-- END Stylesheets -->
@@ -383,14 +382,10 @@ $login_user = "Onyinye Ijeoma";
 
                         <!-- Full Search -->
                         <div class="content-header-item d-none d-sm-inline-block">
-                            <form action="db_medical.html" method="post" onsubmit="return false;">
-                                <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="Search..">
-                                    <div class="input-group-append">
-                                        <span class="input-group-text">
-                                            <i class="fa fa-search"></i>
-                                        </span>
-                                    </div>
+                            <form action="managerequests.php" method="post" onsubmit="return false;">
+                                <div class="input-group" style="padding-bottom:0px">
+                                    <input type="text" class="form-control" placeholder="Search Tracking ID" id="searchdelivery">
+
                                 </div>
                             </form>
                         </div>
@@ -813,6 +808,10 @@ $login_user = "Onyinye Ijeoma";
         <!-- Page JS Helpers (Flatpickr + BS Datepicker + BS Colorpicker + BS Maxlength + Select2 + Masked Input + Range Sliders + Tags Inputs plugins) -->
 
         <script src="node_modules/sweetalert2/dist/sweetalert2.all.js"></script>
+        <script
+  src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
+  integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
+  crossorigin="anonymous"></script>
         <script src="assets/js/api.js"></script>
         <script>
                 jQuery(function(){ Codebase.helpers(['flatpickr', 'datepicker', 'colorpicker', 'maxlength', 'select2', 'masked-inputs', 'rangeslider', 'tags-inputs']); });
@@ -821,7 +820,7 @@ $login_user = "Onyinye Ijeoma";
 			$(document).ready(function(){
                 let statustypes= [{status:'processing'}, {status:'complete'}, {status:'pending'}];
                 let desctypes= [{name:'delivery',value:'Delivery'}, {name:'retrydelivery',value:'Retry Delivery'}, {name:'returned',value:'Returned'}];
-
+let searchdeliveryitems=JSON.parse(localStorage.getItem("searchdeliveryitems"))
 				let trackid = localStorage.getItem("trackingid")
 				console.log(trackid);
 
@@ -868,7 +867,18 @@ $login_user = "Onyinye Ijeoma";
                                 $('#state').val(data.recipientstate);
                                 $('#description').val(data.description);
                                 $('#statusnotes').val(data.notes);
+
+
                             });
+
+                            $( "#searchdelivery" ).autocomplete({source:searchdeliveryitems, position: { my : "left top", at: "left bottom+20", of:"#searchdelivery" }});
+                                //$( "#searchdelivery" ).autocomplete("option","source",searchdeliveryitems);
+                                $( "#searchdelivery" ).on( "autocompleteselect", function( event, ui ) {
+                                   // console.log(event)
+
+                                    console.log(ui.item.value)
+                                    gotomanagerequest(ui.item.value)
+                                })
 
 
 

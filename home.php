@@ -38,6 +38,7 @@ include_once "connection.php";
         <!-- Fonts and Codebase framework -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700&display=swap">
         <link rel="stylesheet" id="css-main" href="assets/css/codebase.min.css">
+        <link href="https://code.jquery.com/ui/1.13.0/themes/smoothness/jquery-ui.css" rel="Stylesheet"></link>
 
         <!-- You can include a specific file from css/themes/ folder to alter the default color theme of the template. eg: -->
         <!-- <link rel="stylesheet" id="css-theme" href="assets/css/themes/flat.min.css"> -->
@@ -119,7 +120,7 @@ include_once "connection.php";
                 <div class="content-side content-side-full bg-danger-light text-center">
                     <i class="fa fa-motorcycle fa-2x text-danger animated swing infinite"></i>
                     <p class="font-size-h5 font-w700 text-danger mt-10 mb-0">
-                       1 new dispatch request.
+                       <span style="display:none">1 new dispatch request.</span>
                     </p>
                 </div>
                 <!-- END Emergency Notification -->
@@ -132,11 +133,11 @@ include_once "connection.php";
                             <div class="row text-center">
                                 <div class="col-6">
                                     <div class="font-size-sm font-w600 text-uppercase text-muted">Dispatch</div>
-                                    <a class="link-effect font-w600 font-size-h4" href="javascript:void(0)">5</a>
+                                    <a class="link-effect font-w600 font-size-h4" href="javascript:void(0)">0</a>
                                 </div>
                                 <div class="col-6">
                                     <div class="font-size-sm font-w600 text-uppercase text-muted">Delivered</div>
-                                    <a class="link-effect font-w600 font-size-h4" href="javascript:void(0)">6</a>
+                                    <a class="link-effect font-w600 font-size-h4" href="javascript:void(0)">0</a>
                                 </div>
                             </div>
                         </div>
@@ -144,71 +145,7 @@ include_once "connection.php";
                     <!-- END Mini Stats -->
 
                     <!-- Notifications -->
-<!--
-                    <div class="block pull-r-l">
-                        <div class="block-header bg-body-light">
-                            <h3 class="block-title">Recent Notifications</h3>
-                            <div class="block-options">
-                                <button type="button" class="btn-block-option" data-toggle="block-option" data-action="state_toggle" data-action-mode="demo">
-                                    <i class="si si-refresh"></i>
-                                </button>
-                            </div>
-                        </div>
-                        <div class="block-content">
-                            <ul class="list list-activity">
-                                <li>
-                                    <i class="fa fa-exclamation-triangle text-danger"></i>
-                                    <div class="font-w600">There is an emergency!</div>
-                                    <div>
-                                        <a class="font-w600 text-danger" href="javascript:void(0)">Event Details</a>
-                                    </div>
-                                    <div class="font-size-xs text-muted">just now</div>
-                                </li>
-                                <li>
-                                    <i class="fa fa-check text-success"></i>
-                                    <div class="font-w600">New patient was added successfully</div>
-                                    <div>
-                                        <a class="font-w600 text-success" href="javascript:void(0)">Andrea Gardner</a>
-                                    </div>
-                                    <div class="font-size-xs text-muted">15 min ago</div>
-                                </li>
-                                <li>
-                                    <i class="fa fa-pencil text-info"></i>
-                                    <div class="font-w600">You edited a file</div>
-                                    <div>
-                                        <a class="font-w600 text-info" href="javascript:void(0)">
-                                            <i class="fa fa-file-text-o"></i> Prescription#2.doc
-                                        </a>
-                                    </div>
-                                    <div class="font-size-xs text-muted">1 day ago</div>
-                                </li>
-                                <li>
-                                    <i class="fa fa-paypal text-primary"></i>
-                                    <div class="font-w600">New payment received!</div>
-                                    <div>
-                                        From <a class="font-w600" href="javascript:void(0)">Lisa Jenkins</a>
-                                    </div>
-                                    <div class="font-size-xs text-muted">1 day ago</div>
-                                </li>
-                                <li>
-                                    <i class="fa fa-check text-success"></i>
-                                    <div class="font-w600">New appointment was scheduled successfully</div>
-                                    <div>
-                                        Tomorrow with <a class="font-w600 text-success" href="javascript:void(0)">Brian Cruz</a>
-                                    </div>
-                                    <div class="font-size-xs text-muted">2 days ago</div>
-                                </li>
-                            </ul>
-                            <a class="btn btn-block btn-alt-secondary" href="javascript:void(0)">
-                                Load more..
-                            </a>
-                            <a class="btn btn-block btn-hero btn-alt-primary" href="javascript:void(0)">
-                                <i class="fa fa-flag mr-5"></i>
-                                View All Notifications
-                            </a>
-                        </div>
-                    </div>
--->
+
                     <!-- END Notifications -->
                 </div>
                 <!-- END Side Content -->
@@ -386,14 +323,10 @@ include_once "connection.php";
 
                         <!-- Full Search -->
                         <div class="content-header-item d-none d-sm-inline-block">
-                            <form action="db_medical.html" method="post" onsubmit="return false;">
-                                <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="Search..">
-                                    <div class="input-group-append">
-                                        <span class="input-group-text">
-                                            <i class="fa fa-search"></i>
-                                        </span>
-                                    </div>
+                            <form action="managerequests.php" method="post" onsubmit="return false;">
+                                <div class="input-group" style="padding-bottom:0px">
+                                    <input type="text" class="form-control" placeholder="Search Tracking ID" id="searchdelivery">
+
                                 </div>
                             </form>
                         </div>
@@ -461,28 +394,28 @@ include_once "connection.php";
                 <!-- END Header Content -->
 
                 <!-- Header Search -->
-                <div id="page-header-search" class="overlay-header">
+                <!-- <div id="page-header-search" class="overlay-header">
                     <div class="content-header content-header-fullrow">
                         <form>
                             <div class="input-group">
                                 <div class="input-group-prepend">
-                                    <!-- Close Search Section -->
+                                     Close Search Section -->
                                     <!-- Layout API, functionality initialized in Template._uiApiLayout() -->
-                                    <button type="button" class="btn btn-secondary px-15" data-toggle="layout" data-action="header_search_off">
+                                    <!-- <button type="button" class="btn btn-secondary px-15" data-toggle="layout" data-action="header_search_off">
                                         <i class="fa fa-times"></i>
-                                    </button>
+                                    </button> -->
                                     <!-- END Close Search Section -->
-                                </div>
-                                <input type="text" class="form-control" placeholder="Search or hit ESC.." id="page-header-search-input" name="page-header-search-input">
+                                <!-- </div>
+                                <input type="text" class="form-control" placeholder="Search for Delivery" id="searchdelivery" name="searchdelivery">
                                 <div class="input-group-append">
                                     <button type="submit" class="btn btn-secondary px-15">
                                         <i class="fa fa-search"></i>
                                     </button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
+                                </div> -->
+                            <!-- </div>
+                        </form> -->
+                    <!-- </div>
+                </div>  -->
                 <!-- END Header Search -->
 
                 <!-- Header Loader -->
@@ -769,16 +702,19 @@ include_once "connection.php";
             webpack is putting everything together at assets/_es6/main/app.js
         -->
         <script src="assets/js/codebase.app.min.js"></script>
+
+        <script
+  src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
+  integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
+  crossorigin="anonymous"></script>
         <script src="node_modules/sweetalert2/dist/sweetalert2.all.js"></script>
         <script src="assets/js/api.js"></script>
         <script>
-			var gotomanagerequest = function(trackingid){
-				console.log(trackingid);
-				localStorage.setItem("trackingid",trackingid);
-				window.location.href="managerequests.php";
-
-			}
+console.log(gotomanagerequest)
 			$(document).ready(function(){
+                let searchdeliveryitems = [];
+
+
 
 				$('.loginuser').text(localStorage.getItem('fullname'))
 
@@ -811,7 +747,17 @@ include_once "connection.php";
                                             </button>
                                         </td>
                                     </tr>`);
+                                    searchdeliveryitems.push(item.trackingid);
+                                    localStorage.setItem("searchdeliveryitems",JSON.stringify(searchdeliveryitems));
                                 })
+                                $( "#searchdelivery" ).autocomplete({source:searchdeliveryitems, position: { my : "left top", at: "left bottom+20", of:"#searchdelivery" }});
+                                //$( "#searchdelivery" ).autocomplete("option","source",searchdeliveryitems);
+                                $( "#searchdelivery" ).on( "autocompleteselect", function( event, ui ) {
+                                   // console.log(event)
+
+                                    console.log(ui.item.value)
+                                    gotomanagerequest(ui.item.value)
+                                } )
 
 
                 });

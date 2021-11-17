@@ -1,5 +1,5 @@
 let baseUrl="https://cubestix.ng/portalapp/";
-// let baseUrl = "https://localhost/cubestix/portalapp/";
+ //let baseUrl = "https://localhost/cubestix/portalapp/";
   // Example POST method implementation:
   async function postData(url = '', data = {}) {
     // Default options are marked with *
@@ -17,4 +17,11 @@ let baseUrl="https://cubestix.ng/portalapp/";
         body: JSON.stringify(data) // body data type must match "Content-Type" header
     });
     return response.json(); // parses JSON response into native JavaScript objects
+    }
+
+  let gotomanagerequest  = function (trackingid){
+      console.log(trackingid);
+      localStorage.setItem("trackingid",trackingid);
+      window.location.href="managerequests.php";
+
     }
